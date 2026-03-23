@@ -30,7 +30,7 @@
 
 <br>
 
-## ✦ &nbsp;Skills
+## Skills
 
 <br>
 
@@ -38,7 +38,7 @@
 <tr>
 <td width="33%" align="center">
 
-### 🎁 &nbsp;`/wrapped`
+### `/wrapped`
 
 **Claude Code Wrapped**
 
@@ -57,7 +57,7 @@ Spotify Wrapped, but for your AI coding sessions. Interactive slide-by-slide ter
 </td>
 <td width="33%" align="center">
 
-### 🔪 &nbsp;`/token-surgeon`
+### `/token-surgeon`
 
 **Token Surgeon**
 
@@ -76,7 +76,7 @@ Scan any prompt against 10 named waste patterns. Get an efficiency score, quoted
 </td>
 <td width="33%" align="center">
 
-### 🗺️ &nbsp;`/onboarding`
+### `/onboarding`
 
 **Onboarding Guide Generator**
 
@@ -102,7 +102,7 @@ Deep-analyze any codebase and produce a fully tailored onboarding guide. Archite
 
 <br>
 
-## ⚡ &nbsp;Quick Install
+## Quick Install
 
 <br>
 
@@ -124,9 +124,9 @@ cd claude-code-skills
 
 ```bash
 # Install all skills
-cp -r skills/wrapped      ~/.claude/skills/wrapped
+cp -r skills/wrapped       ~/.claude/skills/wrapped
 cp -r skills/token-surgeon ~/.claude/skills/token-surgeon
-cp -r skills/onboarding   ~/.claude/skills/onboarding
+cp -r skills/onboarding    ~/.claude/skills/onboarding
 ```
 
 </details>
@@ -155,11 +155,11 @@ Copy-Item -Recurse skills\onboarding    "$env:USERPROFILE\.claude\skills\onboard
 
 <br>
 
-## 📖 &nbsp;Skill Details
+## Skill Details
 
 <br>
 
-### 🎁 &nbsp;`/wrapped` &nbsp;—&nbsp; Claude Code Wrapped
+### `/wrapped` — Claude Code Wrapped
 
 Like Spotify Wrapped, but for your AI coding sessions. Reads your local Claude Code data — no uploads, no API calls, 100% private — and turns it into a **slide-by-slide terminal experience**.
 
@@ -193,7 +193,7 @@ Like Spotify Wrapped, but for your AI coding sessions. Reads your local Claude C
 
 <br>
 
-### 🔪 &nbsp;`/token-surgeon` &nbsp;—&nbsp; Token Surgeon
+### `/token-surgeon` — Token Surgeon
 
 Audits any prompt against **10 named waste patterns**. Quotes every offending line, scores efficiency 1–10, and estimates exactly how many tokens you can recover. Never rewrites without your confirmation.
 
@@ -229,7 +229,7 @@ Audits any prompt against **10 named waste patterns**. Quotes every offending li
 
 <br>
 
-### 🗺️ &nbsp;`/onboarding` &nbsp;—&nbsp; Onboarding Guide Generator
+### `/onboarding` — Onboarding Guide Generator
 
 Points at any codebase and produces a **fully tailored Markdown onboarding guide**. Every line references actual file paths, function names, and commands from the project. No generic boilerplate.
 
@@ -266,7 +266,7 @@ cd your-project/
 
 <br>
 
-## 🤝 &nbsp;Contributing
+## Contributing
 
 Want to add a skill or improve an existing one?
 
