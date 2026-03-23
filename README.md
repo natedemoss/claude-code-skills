@@ -32,69 +32,11 @@
 
 ## Skills
 
-<br>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### `/wrapped`
-
-**Claude Code Wrapped**
-
-Spotify Wrapped, but for your AI coding sessions. Interactive slide-by-slide terminal recap with charts, stats, and your developer archetype.
-
-<br>
-
-![Slides](https://img.shields.io/badge/Slides-10-7C3AED?style=flat-square&labelColor=1E293B)
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&labelColor=1E293B)
-![Private](https://img.shields.io/badge/100%25-Private-22C55E?style=flat-square&labelColor=1E293B)
-
-<br>
-
-[→ View Skill](skills/wrapped/)
-
-</td>
-<td width="33%" align="center">
-
-### `/token-surgeon`
-
-**Token Surgeon**
-
-Scan any prompt against 10 named waste patterns. Get an efficiency score, quoted offending lines, and recoverable token count. Rewrites only on demand.
-
-<br>
-
-![Patterns](https://img.shields.io/badge/Waste_Patterns-10-EF4444?style=flat-square&labelColor=1E293B)
-![Score](https://img.shields.io/badge/Efficiency_Score-1--10-F59E0B?style=flat-square&labelColor=1E293B)
-![Phase](https://img.shields.io/badge/Rewrite-On_Demand-0EA5E9?style=flat-square&labelColor=1E293B)
-
-<br>
-
-[→ View Skill](skills/token-surgeon/)
-
-</td>
-<td width="33%" align="center">
-
-### `/onboarding`
-
-**Onboarding Guide Generator**
-
-Deep-analyze any codebase and produce a fully tailored onboarding guide. Architecture, setup, key files, gotchas — all specific to the project.
-
-<br>
-
-![Sections](https://img.shields.io/badge/Sections-10-22C55E?style=flat-square&labelColor=1E293B)
-![Languages](https://img.shields.io/badge/Any_Language-Supported-84CC16?style=flat-square&labelColor=1E293B)
-![Output](https://img.shields.io/badge/Output-Markdown-6366F1?style=flat-square&labelColor=1E293B)
-
-<br>
-
-[→ View Skill](skills/onboarding/)
-
-</td>
-</tr>
-</table>
+| Command | Name | Description | Docs |
+|:--------|:-----|:------------|:----:|
+| `/wrapped` | Claude Code Wrapped | Spotify Wrapped-style interactive terminal recap of your Claude Code usage — charts, stats, and developer archetype | [→](skills/wrapped/) |
+| `/token-surgeon` | Token Surgeon | Audit any prompt against 10 named waste patterns, score efficiency 1–10, and cut tokens. Rewrites only on demand | [→](skills/token-surgeon/) |
+| `/onboarding` | Onboarding Guide Generator | Deep-analyze any codebase and produce a fully tailored onboarding guide — architecture, setup, gotchas, and more | [→](skills/onboarding/) |
 
 <br>
 
